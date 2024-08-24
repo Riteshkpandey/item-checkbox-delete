@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.checkbox-section {
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+}
